@@ -1,4 +1,4 @@
-This is my bash script for fast downloading of most commonly used JS librarieson client side.
+This is my bash script for fast downloading of most commonly used JS libraries on client side.
 
 It contains curl links to:
 
