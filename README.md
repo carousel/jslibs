@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-This is my BASH script for fast downloading of most commonly used JS librarieson client side.
+This is my BASH script for fast downloading of most commonly used JS libraries on client side.
 =======
 This is my bash script for fast downloading of most commonly used JS libraries on client side.
 >>>>>>> ae6643a58e175b46306f795ae078da58fc879d4f
