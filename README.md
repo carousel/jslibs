@@ -1,4 +1,4 @@
-This is my bash script for fast downloading of most commonly used JS librarieson client side.
+This is my BASH script for fast downloading of most commonly used JS librarieson client side.
 
 It contains curl links to:
  - jQuery latest
@@ -8,4 +8,7 @@ It contains curl links to:
 After downloading, place a script somewhere on your path /usr/bin;/bin...
 Now you can reach it anywhere from your project folder, with one command.
 Script will create three new JS files in your working directory.
+
+NOTE:
+This scripts assumens that you have curl installed.
 
