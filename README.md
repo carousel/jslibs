@@ -1,4 +1,3 @@
-What kind of license should I use for a bigger project ? 
 
 <h2>jslibs</h2>
 <h3>This is my bash script for fast downloading of most commonly used JS libraries on client side.</h3>
